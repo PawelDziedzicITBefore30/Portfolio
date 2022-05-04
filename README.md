@@ -28,6 +28,6 @@ I'm open to work in new industry. In IT attract me the community, remote working
 ### Exercise reports
 ### Real reports
 ### Path Journal
-
+- [Software Tester - Path Journal](https://instagram.com/itbefore30)
 ### Other {In Preparation}
 > {Certificates}{Courses}{Channels}{Webinars}{Books}
