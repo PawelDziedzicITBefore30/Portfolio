@@ -22,14 +22,14 @@ Daily update.
 ### Soft Skills
 - Patience
 - Communicativeness
-- 
+- Teamwork
 ### Tools
 - SQL Developer
 - Postman
 - Trello
-### Exercise reports
-### Real reports
+### Exercise reports {In Preparation}
+### Real reports {In Preparation}
 ### Path Journal
 - [Software Tester - Path Journal](https://instagram.com/itbefore30)
 ### Other {In Preparation}
-> {Certificates}{Courses}{Channels}{Webinars}{Books}
+Soon ... {Certificates}{Courses}{Channels}{Webinars}{Books}
