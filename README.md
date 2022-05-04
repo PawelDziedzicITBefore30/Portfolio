@@ -9,6 +9,8 @@ And by this site I wanna present my software testing skills, knowledge and progr
 
 I'm open to work in new industry. In IT attract me the community, remote working and over&over growing up.
 
+Daily update.
+
 ## Software Testing
 ### Tech Skills
 - SQL 
